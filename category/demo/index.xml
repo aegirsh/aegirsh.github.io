@@ -2,21 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>http://localhost:1313/category/demo/</link>
-      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/category/demo/</link>
+      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>http://localhost:1313/category/demo/</link>
+      <link>https://example.com/category/demo/</link>
     </image>
     
     <item>
+      <title>Непрерывная интеграция и непрерывное развертывание (CI/CD)</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-2/</guid>
+      <description>&lt;h2 id=&#34;непрерывная-интеграция-ci&#34;&gt;Непрерывная интеграция (CI)&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция (Continuous Integration, CI) - это практика разработки программного обеспечения, которая заключается в автоматическом объединении всех изменений кода из разных разработчиков в общий репозиторий несколько раз в день.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-непрерывной-интеграции&#34;&gt;Преимущества непрерывной интеграции:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Улучшение качества кода&lt;/li&gt;
+&lt;li&gt;Быстрая обратная связь&lt;/li&gt;
+&lt;li&gt;Ускоренный процесс разработки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;непрерывное-развертывание-cd&#34;&gt;Непрерывное развертывание (CD)&lt;/h2&gt;
+&lt;p&gt;Непрерывное развертывание (Continuous Deployment, CD) - это практика автоматического выпуска приложений в производственную среду после успешного прохождения всех этапов тестирования и проверки качества.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-непрерывного-развертывания&#34;&gt;Преимущества непрерывного развертывания:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сокращение времени доставки продукта на рынок&lt;/li&gt;
+&lt;li&gt;Уменьшение рисков человеческого фактора&lt;/li&gt;
+&lt;li&gt;Повышение надежности и стабильности приложения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;инструменты-для-cicd&#34;&gt;Инструменты для CI/CD&lt;/h2&gt;
+&lt;p&gt;Для реализации непрерывной интеграции и непрерывного развертывания используются различные инструменты, такие как Jenkins, GitLab CI, Travis CI, CircleCI и другие. Эти инструменты помогают автоматизировать процессы сборки, тестирования и развертывания приложений, что значительно упрощает жизнь разработчиков и повышает эффективность работы команды.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе.</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-1/</guid>
+      <description>&lt;h2 id=&#34;прошлая-неделя-была-насыщенной-и-интересной-для-меня-как-студента-информатики-вот-несколько-микротем-которые-я-хочу-поделиться&#34;&gt;Прошлая неделя была насыщенной и интересной для меня, как студента информатики. Вот несколько микротем, которые я хочу поделиться:&lt;/h2&gt;
+&lt;h2 id=&#34;учеба&#34;&gt;Учеба&lt;/h2&gt;
+&lt;p&gt;В прошлой неделе мы изучали интегралы. Я углубил свои знания в теме функций и реализации различных действий на их основе. Это было очень увлекательно, но иногда вызывало сложности.&lt;/p&gt;
+&lt;h2 id=&#34;проекты&#34;&gt;Проекты&lt;/h2&gt;
+&lt;p&gt;Мы продолжаем работу над нашим групповым проектом по истории. На прошлой неделе мы успешно придумали тему. Работа в команде требует от нас согласования и взаимодействия, но результат того стоит.&lt;/p&gt;
+&lt;h2 id=&#34;саморазвитие&#34;&gt;Саморазвитие&lt;/h2&gt;
+&lt;p&gt;Я продолжаю изучать новые технологии и языки программирования. На прошлой неделе я начал изучать фреймворк React.js для разработки фронтенд-приложений. Это вызывает много интереса и мотивации для дальнейшего обучения.&lt;/p&gt;
+&lt;h2 id=&#34;личное-время&#34;&gt;Личное время&lt;/h2&gt;
+&lt;p&gt;Несмотря на загруженность учебой и проектами, я нашел время для занятий спортом и чтения книг. Регулярные прогулки на свежем воздухе помогают мне расслабиться и собраться с мыслями.&lt;/p&gt;
+&lt;p&gt;В целом, прошлая неделя была насыщенной и продуктивной. Я рад тому, что могу развиваться в области информатики и не перестаю удивляться всему, что узнаю и создаю.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
